@@ -1,0 +1,23 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+
+/* responsivenesss */
+
+
+@media (max-width:900px) {
+  .header{
+    margin: 20px;
+  }
+  textarea{
+    width: 400px;
+  }
+  .showInput{
+    width: 200px;
+  }
+}
